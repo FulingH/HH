@@ -1,18 +1,18 @@
 {
-  "name": "bk-1810-hi-yueyue",
+  "name": "bk-1810-huyang-yy",
   "version": "0.0.1",
   "description": "A test pageage",
   "main": "index.js",
   "scripts": {
-    "test": "mocha "
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FulingH/HH.git"
   },
   "keywords": [
-    "bk-18"
+    "huyang"
   ],
-  "repository":{
-    "type":"Git",
-    "url":"https://github.com/FulingH/HH.git"
-  },
-  "author": "fuling",
-  "license": "MIT "
-}
+  "author": "fulinli",
+  "license": "MIT",
+ 
